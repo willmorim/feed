@@ -4,7 +4,8 @@ Development of a Feed page for study using best practices with ReactJS and TypeS
 
 ##
 
-<img alt="feed" title="#feed" src="./resources/feed.png" width="720px" />
+![feed](https://user-images.githubusercontent.com/33011070/174143883-2b7204ab-3cc2-4107-8355-cc2324ad859a.png)
+
 
 ## Demo
 
